@@ -32,5 +32,6 @@ You are developing an application that helps users manage and control various el
 
 ## UML Class Diagram
 
-![Class Diagram](https://github.com/FroilanDelfinJr/adapterPattern/assets/142400742/58943d4f-1d6e-4a10-98dd-82f11319a3c6)
+![Class Diagram](https://github.com/FroilanDelfinJr/adapterPattern/assets/142400742/9d67ff45-670d-4d21-ad3f-284cb87f3cf3)
+
 
